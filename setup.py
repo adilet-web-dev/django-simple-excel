@@ -29,7 +29,7 @@ setup(
     version=version,
     description='Simple package for export from django model to excel',
     python_requires='>=3.6',
-    install_requires=['django>=2.2', 'xlsxwriter'],
+    install_requires=['django', 'xlsxwriter'],
     packages=['simple_excel'],
     url='https://github.com/adilet-web-dev/django-simple-excel',
     author='adilet-web-dev',
@@ -38,8 +38,7 @@ setup(
     zip_safe=False,
     license='Creative Commons Attribution 3.0 Unported',
     classifiers=[
-        'Framework :: Django :: 3.2',
-        'Framework :: Django :: 4.0',
+        'Framework :: Django,
         'Intended Audience :: Developers',
         'Operating System :: OS Independent',
         'Programming Language :: Python',

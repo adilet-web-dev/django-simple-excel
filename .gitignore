@@ -1,0 +1,14 @@
+.venv
+
+config
+templates
+
+
+__pycache__/
+.DS_Store
+
+.vscode
+
+.idea
+
+db.sqlite3

@@ -6,7 +6,7 @@ authors = ["mrAdiletDev <adiletdj19@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-Django = "^4.1"
+Django = "^3.2.7"
 XlsxWriter = "^3.0.3"
 
 [tool.poetry.dev-dependencies]

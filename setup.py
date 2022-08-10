@@ -38,7 +38,7 @@ setup(
     zip_safe=False,
     license='Creative Commons Attribution 3.0 Unported',
     classifiers=[
-        'Framework :: Django,
+        'Framework :: Django',
         'Intended Audience :: Developers',
         'Operating System :: OS Independent',
         'Programming Language :: Python',
